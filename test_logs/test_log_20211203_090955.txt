@@ -1,0 +1,4 @@
+Test started
+sector analysis method started
+sector analysis started
+21.452 seconds

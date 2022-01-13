@@ -1,0 +1,40 @@
+Test started
+discover instagram page profile picture control started
+There is no 404 & 500
+Instagram @berkgulerr response code: 200 
+Instagram @berkgulerr HS is proper 4.6
+Instagram @berkgulerr ER is proper 1.70% 1.70
+Instagram @serkanaltunigne response code: 200 
+Instagram @serkanaltunigne HS is proper 5.9
+Instagram @serkanaltunigne ER is proper 8.80% 8.80
+Instagram @serkanaltunigne Story F: N/A
+Instagram @erdemakakce response code: 200 
+Instagram @erdemakakce HS is proper 3.4
+Instagram @erdemakakce ER is proper 1.08% 1.08
+Instagram @biancasomer response code: 200 
+Instagram @biancasomer HS is proper 3.2
+Instagram @biancasomer ER is proper 1.49% 1.49
+Instagram @biancasomer Story F: N/A
+Instagram @drgokcenerdogan response code: 200 
+Instagram @drgokcenerdogan HS is proper 4.3
+Instagram @drgokcenerdogan ER is proper 1.02% 1.02
+Instagram @drgokcenerdogan Story F: N/A
+Instagram @deepturkishumor1 response code: 200 
+Instagram @deepturkishumor1 HS is proper 6.8
+Instagram @deepturkishumor1 ER is proper 5.66% 5.66
+Instagram @baskasinema response code: 200 
+Instagram @baskasinema HS is proper 1.8
+Instagram @baskasinema ER is proper 0.12% 0.12
+Instagram @baskasinema Story F: N/A
+Instagram @healthyfoodbreak response code: 200 
+Instagram @healthyfoodbreak HS is proper 4.2
+Instagram @healthyfoodbreak ER is proper 0.93% 0.93
+Instagram @talhaugurluell response code: 200 
+Instagram @talhaugurluell HS is proper 0.2
+Instagram @talhaugurluell ER is proper 1.13% 1.13
+Instagram @merveceyiz_53 response code: 200 
+Instagram @merveceyiz_53 HS is proper 4.1
+Instagram @merveceyiz_53 ER is proper 1.47% 1.47
+Instagram @merveceyiz_53 Story F: N/A
+discover instagram page profile picture controlled
+59.230 seconds

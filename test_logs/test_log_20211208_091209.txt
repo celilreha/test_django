@@ -1,0 +1,1022 @@
+Test started
+competetion analysis method started
+competetion analysis started
+125.178 seconds
+all links control started
+There is no 404 & 500
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12829/', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/cross_analysis', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/maintenance_mode', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2977/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1413/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5697/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/accounts/logout/?next=/accounts/login/', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?min_followers=700000&max_followers=20000000', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.jivochat.com/i_sa/?utm_source=www.hyperiser.com&utm_medium=link&utm_content=label_tooltip&utm_campaign=from_widget', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencerlists', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/upgrade', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1109/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/competition_analysis', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencerlists/1712', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/messages', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/support', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/#', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?min_followers=100000&max_followers=700000', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/podcast', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12827/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/sector_analysis', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12828/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/about', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12840/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/targeted_analysis', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12838/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12841/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3291/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12833/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/10160/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/faq', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/account_settings', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12839/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12834/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6186/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12837/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/cookie_policy', 'pages': {'https://www.hyperiser.com/discover/youtube', 'https://www.hyperiser.com/competition_analysis', 'https://www.hyperiser.com/cross_analysis', 'https://www.hyperiser.com/targeted_analysis', 'https://www.hyperiser.com/discover/instagram', 'https://www.hyperiser.com/post_analysis', 'https://www.hyperiser.com/', 'https://www.hyperiser.com/podcast', 'https://www.hyperiser.com/sector_analysis', 'https://www.hyperiser.com/discover/clubhouse', 'https://www.hyperiser.com/discover/twitch', 'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?min_followers=0&max_followers=100000', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8536/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2445/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/10438/', 'pages': {'https://www.hyperiser.com/'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?page=2', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8008/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?page=1&sort=reach&order=desc', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8804/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6697/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8237/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8804/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4296/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4296/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8008/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2478/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8697/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8647/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7339/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7339/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?page=1&sort=hyperscore&order=desc', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2478/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4296/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8283/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8697/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2478/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4296/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2478/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8804/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8008/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8697/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8283/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8804/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8237/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7339/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8008/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7339/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?page=1&sort=er&order=desc', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8647/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8697/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8237/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8804/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4296/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?page=1&sort=follower&order=desc', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8647/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6697/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7339/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8647/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8647/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram?page=1&sort=a-z&order=asc', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8237/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6697/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8008/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8283/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8283/instagram/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6697/youtube/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8697/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/instagram#', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6697/tiktok/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8237/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2478/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8283/twitch/', 'pages': {'https://www.hyperiser.com/discover/instagram'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4339/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4322/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4322/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2638/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11170/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11170/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9134/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3239/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4322/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4322/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok?page=1&sort=er&order=desc', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11170/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3239/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok?page=1&sort=reach&order=desc', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1497/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7722/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2638/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2638/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9134/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1229/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4339/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3239/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok?page=1&sort=follower&order=desc', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7722/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11170/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1497/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3881/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok?page=1&sort=a-z&order=asc', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1229/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1229/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3881/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7722/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1229/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1229/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7722/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2638/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3881/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3239/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3881/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1497/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4339/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9134/instagram/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4339/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4339/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4322/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9134/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11170/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok?page=2', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2638/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3239/twitch/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1497/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3881/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok#', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1497/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7722/youtube/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9134/tiktok/', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/tiktok?page=1&sort=hyperscore&order=desc', 'pages': {'https://www.hyperiser.com/discover/tiktok'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12458/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12523/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11430/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12770/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12523/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12130/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch?page=1&sort=follower&order=desc', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12130/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11428/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11260/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11430/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11260/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch?page=1&sort=er&order=desc', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12130/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1592/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12770/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11428/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11260/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12005/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch?page=1&sort=hyperscore&order=desc', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12458/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12458/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12523/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12770/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11433/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch#', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1592/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12458/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch?page=2', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11260/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11428/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch?page=1&sort=a-z&order=asc', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11430/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12458/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12770/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1592/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12005/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11433/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12005/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12523/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11260/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11430/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11433/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12005/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12130/twitch/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11428/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11433/instagram/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1592/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11430/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12770/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12130/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1592/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12005/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11428/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/twitch?page=1&sort=reach&order=desc', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/11433/tiktok/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12523/youtube/', 'pages': {'https://www.hyperiser.com/discover/twitch'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube?page=1&sort=follower&order=desc', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube#', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12449/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5235/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9124/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube?page=1&sort=hyperscore&order=desc', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9124/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6216/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1764/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube?page=1&sort=a-z&order=asc', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7502/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7502/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5235/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6210/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6210/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12449/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1764/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1764/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1764/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12039/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7502/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5235/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12449/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/1764/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube?page=1&sort=er&order=desc', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6210/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6216/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12039/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5508/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6216/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3120/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube?page=2', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3120/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/youtube?page=1&sort=reach&order=desc', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6210/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5235/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5508/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9124/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5235/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3120/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5508/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12449/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6216/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3120/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7502/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5508/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12039/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6216/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12039/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6210/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12449/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9124/twitch/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7502/instagram/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5508/youtube/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3120/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12039/tiktok/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9124/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/youtube'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3570/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3726/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse?page=1&sort=reach&order=desc', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6515/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse?page=1&sort=hyperscore&order=desc', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2348/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4663/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4663/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3726/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3606/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7122/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6515/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7113/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4458/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6515/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8671/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2348/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8671/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7122/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse?page=1&sort=a-z&order=asc', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse?page=1&sort=follower&order=desc', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2348/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4458/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4458/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3570/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2348/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4663/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3606/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7113/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3606/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8671/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8671/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse?page=2', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4663/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2348/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7113/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3570/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4458/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4663/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3570/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3726/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7122/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/4458/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse#', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6515/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3606/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7122/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7122/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7113/twitch/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/discover/clubhouse?page=1&sort=er&order=desc', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3726/youtube/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3606/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3570/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3726/tiktok/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8671/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7113/clubhouse/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6515/instagram/', 'pages': {'https://www.hyperiser.com/discover/clubhouse'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8437/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7109/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5250/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12818/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8437/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7109/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8437/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8810/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7165/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3940/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7165/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8437/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7109/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5250/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7109/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3940/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8437/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3940/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8810/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12818/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3940/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2891/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6957/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/3940/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8810/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7165/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7165/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2287/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2287/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6957/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12818/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7109/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/podcast?page=2', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/7165/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2287/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12818/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6957/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2891/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/podcast#', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5250/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5250/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2891/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8810/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2287/youtube/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2891/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2891/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/2287/tiktok/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6957/instagram/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/12818/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/5250/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/6957/clubhouse/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/8810/twitch/', 'pages': {'https://www.hyperiser.com/podcast'}}
+status code:  200 {'link': 'https://www.hyperiser.com/competition_analysis/1298/', 'pages': {'https://www.hyperiser.com/competition_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/competition_analysis#', 'pages': {'https://www.hyperiser.com/competition_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/export_competition_analysis_openpyxl/1298', 'pages': {'https://www.hyperiser.com/competition_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/export_competition_analysis_openpyxl/1289', 'pages': {'https://www.hyperiser.com/competition_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/competition_analysis/1289/', 'pages': {'https://www.hyperiser.com/competition_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/targeted_analysis#', 'pages': {'https://www.hyperiser.com/targeted_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/cross_analysis#', 'pages': {'https://www.hyperiser.com/cross_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/influencers/9069/', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=9708', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=12374', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis#', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=9041', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=5802', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=1495', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=6158', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=12962', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=7282', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=12157', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=8633', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=2914', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=4322', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=11230', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=12724', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/post_analysis?influencer=9315', 'pages': {'https://www.hyperiser.com/post_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/export_sector_analysis_openpyxl/720/', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/export_sector_analysis_openpyxl/728/', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/sector_analysis#', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/export_sector_analysis_openpyxl/737/', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/sector_analysis/728/', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/sector_analysis/737/', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+status code:  200 {'link': 'https://www.hyperiser.com/sector_analysis/720/', 'pages': {'https://www.hyperiser.com/sector_analysis'}}
+all links controlled
+505.826 seconds
+discover instagram page profile picture control started
+There is no 404 & 500
+Instagram @bahararslan response code: 200 
+Instagram @bahararslan HS is proper 5.8
+Instagram @bahararslan ER is proper 0.43% 0.43
+Instagram @denizbuluut response code: 200 
+Instagram @denizbuluut HS is proper 4.4
+Instagram @denizbuluut ER is proper 0.80% 0.80
+Instagram @mimarfatoseker response code: 200 
+Instagram @mimarfatoseker HS is proper 4.5
+Instagram @mimarfatoseker ER is proper 0.84% 0.84
+Instagram @birbebeginblogu response code: 200 
+Instagram @birbebeginblogu HS is proper 3.2
+Instagram @birbebeginblogu ER is proper 0.54% 0.54
+Instagram @birbebeginblogu Story F: N/A
+Instagram @alpinizmir response code: 200 
+Instagram @alpinizmir Error: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý', None, 10054, None))  has no picture
+Instagram @alpinizmir HS is proper 5.2
+Instagram @alpinizmir ER is proper 2.36% 2.36
+Instagram @erbatur response code: 200 
+Instagram @erbatur HS is proper 7.5
+Instagram @erbatur ER is proper 9.12% 9.12
+Instagram @avsarestetik response code: 200 
+Instagram @avsarestetik HS is proper 4.0
+Instagram @avsarestetik ER is proper 0.31% 0.31
+Instagram @avsarestetik Story F: N/A
+Instagram @ezhel06 response code: 200 
+Instagram @ezhel06 HS is proper 6.9
+Instagram @ezhel06 ER is proper 6.54% 6.54
+Instagram @benimevimbenimzevkim response code: 200 
+Instagram @benimevimbenimzevkim HS is proper 4.3
+Instagram @benimevimbenimzevkim ER is proper 1.07% 1.07
+Instagram @kavunici_tasarim response code: 200 
+Instagram @kavunici_tasarim HS is proper 6.0
+Instagram @kavunici_tasarim ER is proper 2.22% 2.22
+discover instagram page profile picture controlled
+546.454 seconds
+discover instagram page no category no label filter control started
+Instagram @alpinizmir response code: 200 
+Instagram @alpinizmir HS is proper 5.2
+Instagram @alpinizmir ER is proper 2.36% 2.36
+Instagram @ezhel06 response code: 200 
+Instagram @ezhel06 HS is proper 6.9
+Instagram @ezhel06 ER is proper 6.54% 6.54
+Instagram @benimevimbenimzevkim response code: 200 
+Instagram @benimevimbenimzevkim HS is proper 4.3
+Instagram @benimevimbenimzevkim ER is proper 1.07% 1.07
+Instagram @kavunici_tasarim response code: 200 
+Instagram @kavunici_tasarim HS is proper 6.0
+Instagram @kavunici_tasarim ER is proper 2.22% 2.22
+Instagram @kokenliege response code: 200 
+Instagram @kokenliege HS is proper 5.6
+Instagram @kokenliege ER is proper 3.22% 3.22
+Instagram @ahsenylmz3 response code: 200 
+Instagram @ahsenylmz3 HS is proper 5.4
+Instagram @ahsenylmz3 ER is proper 3.32% 3.32
+Instagram @nostaljiyolculuk response code: 200 
+Instagram @nostaljiyolculuk HS is proper 1.2
+Instagram @nostaljiyolculuk ER is proper 1.34% 1.34
+Instagram @can_ttnc response code: 200 
+Instagram @can_ttnc HS is proper 7.7
+Instagram @can_ttnc ER is proper 16.18% 16.18
+Instagram @can_ttnc Story F: N/A
+Instagram @canerbala response code: 200 
+Instagram @canerbala  has no picture
+Instagram @canerbala HS is proper 6.1
+Instagram @canerbala ER is proper 3.68% 3.68
+Instagram @canerbala  Post F:  ?
+Instagram @canerbala Story F: N/A
+Instagram @doganakdogan response code: 200 
+Instagram @doganakdogan HS is proper 2.7
+Instagram @doganakdogan ER is proper 1.23% 1.23
+Instagram @doganakdogan Story F: N/A
+discover instagram page no category no label filter controlled
+579.313 seconds
+discover instagram page one category filter control started
+Instagram @serenayss response code: 200 
+Instagram @serenayss HS is proper 3.8
+Instagram @serenayss ER is proper 1.48% 1.48
+Instagram @demetozdemir response code: 200 
+Instagram @demetozdemir HS is proper 5.1
+Instagram @demetozdemir ER is proper 4.37% 4.37
+Instagram @elcinsangu response code: 200 
+Instagram @elcinsangu HS is proper 5.8
+Instagram @elcinsangu ER is proper 4.77% 4.77
+Instagram @canyaman response code: 200 
+Instagram @canyaman HS is proper 5.0
+Instagram @canyaman ER is proper 3.31% 3.31
+Instagram @ezomola response code: 200 
+Instagram @ezomola HS is proper 5.4
+Instagram @ezomola ER is proper 3.75% 3.75
+Instagram @ezomola Story F: N/A
+Instagram @berenn_saat response code: 200 
+Instagram @berenn_saat HS is proper 5.3
+Instagram @berenn_saat ER is proper 3.50% 3.50
+Instagram @berenn_saat Story F: N/A
+Instagram @mehmetaslantug response code: 200 
+Instagram @mehmetaslantug HS is proper 7.7
+Instagram @mehmetaslantug ER is proper 15.21% 15.21
+Instagram @mehmetaslantug Story F: N/A
+Instagram @karsisinema response code: 200 
+Instagram @karsisinema  has no picture
+Instagram @karsisinema HS is proper 4.1
+Instagram @karsisinema ER is proper 1.06% 1.06
+Instagram @karsisinema Story F: N/A
+Instagram @bensusoral response code: 200 
+Instagram @bensusoral HS is proper 6.4
+Instagram @bensusoral ER is proper 5.28% 5.28
+Instagram @bensusoral Story F: N/A
+Instagram @oktaykaynarca response code: 200 
+Instagram @oktaykaynarca HS is proper 7.4
+Instagram @oktaykaynarca ER is proper 8.16% 8.16
+Selected category is ['MOVIES & TV']
+discover instagram page one category filter controlled
+628.895 seconds
+discover instagram page one label filter control started
+discover instagram page one category one label filter control started
+Instagram @kenansofuoglu response code: 200 
+Instagram @kenansofuoglu HS is proper 6.8
+Instagram @kenansofuoglu ER is proper 2.84% 2.84
+Instagram @kenansofuoglu Story F: N/A
+Instagram @fkingmag response code: 200 
+Instagram @fkingmag HS is proper 4.0
+Instagram @fkingmag ER is proper 1.91% 1.91
+Instagram @fkingmag Story F: N/A
+Instagram @cembolukbasi response code: 200 
+Instagram @cembolukbasi HS is proper 8.0
+Instagram @cembolukbasi ER is proper 24.86% 24.86
+Instagram @haruntastan__ response code: 200 
+Instagram @haruntastan__ HS is proper 7.4
+Instagram @haruntastan__ ER is proper 3.17% 3.17
+Instagram @unalturann response code: 200 
+Instagram @unalturann HS is proper 6.0
+Instagram @unalturann ER is proper 4.70% 4.70
+Instagram @unalturann Story F: N/A
+Instagram @serifsogukbulak response code: 200 
+Instagram @serifsogukbulak HS is proper 5.3
+Instagram @serifsogukbulak ER is proper 2.72% 2.72
+Instagram @e.soyalan response code: 200 
+Instagram @e.soyalan  has no picture
+Instagram @e.soyalan HS is proper 4.2
+Instagram @e.soyalan ER is proper 1.28% 1.28
+Instagram @e.soyalan Story F: N/A
+Instagram @aliturkkan response code: 200 
+Instagram @aliturkkan  has no picture
+Instagram @aliturkkan HS is proper 8.1
+Instagram @aliturkkan ER is proper 9.21% 9.21
+Instagram @aliturkkan Story F: N/A
+Instagram @oguzhan999 response code: 200 
+Instagram @oguzhan999 HS is proper 6.0
+Instagram @oguzhan999 ER is proper 5.46% 5.46
+Instagram @oguzhan999 Story F: N/A
+Instagram @tacihanyongacii response code: 200 
+Instagram @tacihanyongacii HS is proper 4.9
+Instagram @tacihanyongacii ER is proper 2.31% 2.31
+discover instagram page multi category filter control started
+discover instagram page multi label filter control started
+Instagram @ozlemcalin response code: 200 
+Instagram @ozlemcalin HS is proper 4.5
+Instagram @ozlemcalin ER is proper 1.19% 1.19
+Instagram @ozlemcalin Story F: N/A
+Instagram @dilekbirgen00 response code: 200 
+Instagram @dilekbirgen00 HS is proper 5.2
+Instagram @dilekbirgen00 ER is proper 2.22% 2.22
+Instagram @dilekbirgen00 Story F: N/A
+Instagram @mervepolat response code: 200 
+Instagram @mervepolat HS is proper 3.8
+Instagram @mervepolat ER is proper 1.52% 1.52
+Instagram @mervepolat Story F: N/A
+Instagram @ozlem_temel_ response code: 200 
+Instagram @ozlem_temel_ HS is proper 5.6
+Instagram @ozlem_temel_ ER is proper 3.76% 3.76
+Instagram @nzlilme response code: 200 
+Instagram @nzlilme HS is proper 4.8
+Instagram @nzlilme ER is proper 1.59% 1.59
+Instagram @nzlilme Story F: N/A
+Instagram @tugbana response code: 200 
+Instagram @tugbana HS is proper 5.3
+Instagram @tugbana ER is proper 1.32% 1.32
+Instagram @tugbana Story F: N/A
+Instagram @ipek_soylu response code: 200 
+Instagram @ipek_soylu HS is proper 5.7
+Instagram @ipek_soylu ER is proper 3.62% 3.62
+Instagram @tugce_alpay response code: 200 
+Instagram @tugce_alpay HS is proper 4.9
+Instagram @tugce_alpay ER is proper 2.40% 2.40
+Instagram @tugce_alpay Story F: N/A
+Instagram @duyguturgok response code: 200 
+Instagram @duyguturgok HS is proper 4.8
+Instagram @duyguturgok ER is proper 2.19% 2.19
+Instagram @duyguturgok Story F: N/A
+Instagram @ipekustaaa response code: 200 
+Instagram @ipekustaaa HS is proper 5.1
+Instagram @ipekustaaa ER is proper 2.28% 2.28
+Selected labels are ['Art', 'Mom', 'Fitness']
+discover instagram page filter controlled
+804.259 seconds
+discover instagram page filter control started
+discover instagram page sort control started
+Hyperscore  sort is started 
+Instagram @halukbilginer_official response code: 200 
+Instagram @halukbilginer_official  has no picture
+Instagram @halukbilginer_official  Error HS:  ?
+Instagram @halukbilginer_official ER is proper 21.40% 21.40
+Instagram @halukbilginer_official  Post F:  ?
+Instagram @halukbilginer_official  Avg Reach:  None
+Instagram @halukbilginer_official Story F: N/A
+Instagram @nrsn.yldrm response code: 200 
+Instagram @nrsn.yldrm  has no picture
+Instagram @nrsn.yldrm  Error HS:  ?
+Instagram @nrsn.yldrm  ER:  ? None
+Instagram @nrsn.yldrm  Post F:  ?
+Instagram @nrsn.yldrm  Avg Reach:  None
+Instagram @nrsn.yldrm  Avg Eng:  None
+Instagram @nrsn.yldrm Story F: N/A
+Instagram @annecocukvepsikoloji response code: 200 
+Instagram @annecocukvepsikoloji  has no picture
+Instagram @annecocukvepsikoloji  Error HS:  ?
+Instagram @annecocukvepsikoloji  ER:  ? None
+Instagram @annecocukvepsikoloji  Post F:  ?
+Instagram @annecocukvepsikoloji  Avg Reach:  None
+Instagram @annecocukvepsikoloji  Avg Eng:  None
+Instagram @annecocukvepsikoloji Story F: N/A
+Instagram @l1ucgen response code: 200 
+Instagram @l1ucgen  has no picture
+Instagram @l1ucgen  Error HS:  ?
+Instagram @l1ucgen ER is proper 4.53% 4.53
+Instagram @l1ucgen  Post F:  ?
+Instagram @l1ucgen  Avg Reach:  None
+Instagram @l1ucgen Story F: N/A
+Instagram @melisayogaofficial response code: 200 
+Instagram @melisayogaofficial  has no picture
+Instagram @melisayogaofficial  Error HS:  ?
+Instagram @melisayogaofficial  ER:  ? None
+Instagram @melisayogaofficial  Post F:  ?
+Instagram @melisayogaofficial  Avg Reach:  None
+Instagram @melisayogaofficial  Avg Eng:  None
+Instagram @melisayogaofficial Story F: N/A
+Instagram @buketintasarimbutigi response code: 200 
+Instagram @buketintasarimbutigi  Error HS:  ?
+Instagram @buketintasarimbutigi  ER:  ? None
+Instagram @buketintasarimbutigi  Post F:  ?
+Instagram @buketintasarimbutigi  Avg Reach:  None
+Instagram @buketintasarimbutigi  Avg Eng:  None
+Instagram @buketintasarimbutigi Story F: N/A
+Instagram @cemlokmanhekim response code: 200 
+Instagram @cemlokmanhekim  Error HS:  ?
+Instagram @cemlokmanhekim  ER:  ? None
+Instagram @cemlokmanhekim  Post F:  ?
+Instagram @cemlokmanhekim  Avg Reach:  None
+Instagram @cemlokmanhekim  Avg Eng:  None
+Instagram @cemlokmanhekim Story F: N/A
+Instagram @otomatikoynatresmi response code: 200 
+Instagram @otomatikoynatresmi  Error HS:  ?
+Instagram @otomatikoynatresmi ER is proper 4.77% 4.77
+Instagram @otomatikoynatresmi  Post F:  ?
+Instagram @otomatikoynatresmi  Avg Reach:  None
+Instagram @otomatikoynatresmi Story F: N/A
+Instagram @celilyavuz response code: 200 
+Instagram @celilyavuz  Error HS:  ?
+Instagram @celilyavuz  ER:  ? None
+Instagram @celilyavuz  Post F:  ?
+Instagram @celilyavuz  Avg Reach:  None
+Instagram @celilyavuz  Avg Eng:  None
+Instagram @celilyavuz Story F: N/A
+Instagram @birdilimdus response code: 200 
+Instagram @birdilimdus  Error HS:  ?
+Instagram @birdilimdus  ER:  ? None
+Instagram @birdilimdus  Post F:  ?
+Instagram @birdilimdus  Avg Reach:  None
+Instagram @birdilimdus  Avg Eng:  None
+Instagram @birdilimdus Story F: N/A
+Hyperscore  sort is started 
+discover instagram page control started
+Instagram @bahararslan response code: 200 
+Instagram @bahararslan HS is proper 5.8
+Instagram @bahararslan ER is proper 0.43% 0.43
+Instagram @denizbuluut response code: 200 
+Instagram @denizbuluut HS is proper 4.4
+Instagram @denizbuluut ER is proper 0.80% 0.80
+Instagram @mimarfatoseker response code: 200 
+Instagram @mimarfatoseker HS is proper 4.5
+Instagram @mimarfatoseker ER is proper 0.84% 0.84
+Instagram @birbebeginblogu response code: 200 
+Instagram @birbebeginblogu HS is proper 3.2
+Instagram @birbebeginblogu ER is proper 0.54% 0.54
+Instagram @birbebeginblogu Story F: N/A
+Instagram @alpinizmir response code: 200 
+Instagram @alpinizmir HS is proper 5.2
+Instagram @alpinizmir ER is proper 2.36% 2.36
+Instagram @avsarestetik response code: 200 
+Instagram @avsarestetik HS is proper 4.0
+Instagram @avsarestetik ER is proper 0.31% 0.31
+Instagram @avsarestetik Story F: N/A
+Instagram @ezhel06 response code: 200 
+Instagram @ezhel06 HS is proper 6.9
+Instagram @ezhel06 ER is proper 6.54% 6.54
+Instagram @benimevimbenimzevkim response code: 200 
+Instagram @benimevimbenimzevkim HS is proper 4.3
+Instagram @benimevimbenimzevkim ER is proper 1.07% 1.07
+Instagram @kavunici_tasarim response code: 200 
+Instagram @kavunici_tasarim HS is proper 6.0
+Instagram @kavunici_tasarim ER is proper 2.22% 2.22
+Instagram @kokenliege response code: 200 
+Instagram @kokenliege HS is proper 5.6
+Instagram @kokenliege ER is proper 3.22% 3.22
+discover instagram page controlled
+996.586 seconds
+discover tiktok page control started
+TikTok @nilaybysal response code: 200 
+TikTok @nilaybysal HS is proper 4.3
+TikTok @nilaybysal ER is proper 16.04%
+TikTok @nilaybysal  avg_shares_value:  
+TikTok @hrguder response code: 200 
+TikTok @hrguder HS is proper 7.7
+TikTok @hrguder  ER:  
+TikTok @hrguder  avg_views_value:  
+TikTok @hrguder  avg_likes_value:  
+TikTok @hrguder  avg_comments_value:  
+TikTok @hrguder  avg_shares_value:  
+TikTok @novaprospekt.1 response code: 200 
+TikTok @novaprospekt.1 HS is proper 5.7
+TikTok @novaprospekt.1 ER is proper 4.82%
+TikTok @emirhanozhan response code: 200 
+TikTok @emirhanozhan HS is proper 5.9
+TikTok @emirhanozhan ER is proper 6.52%
+TikTok @mirandaorlayn response code: 200 
+TikTok @mirandaorlayn HS is proper 8.4
+TikTok @mirandaorlayn ER is proper 4.11%
+TikTok @baristahakan response code: 200 
+TikTok @baristahakan HS is proper 7.3
+TikTok @baristahakan  ER:  
+TikTok @baristahakan  avg_views_value:  
+TikTok @baristahakan  avg_likes_value:  
+TikTok @baristahakan  avg_comments_value:  
+TikTok @baristahakan  avg_shares_value:  
+TikTok @cinaraysegulll response code: 200 
+TikTok @cinaraysegulll HS is proper 6.0
+TikTok @cinaraysegulll ER is proper 2.83%
+TikTok @kadircnturan response code: 200 
+TikTok @kadircnturan HS is proper 5.3
+TikTok @kadircnturan ER is proper 2.77%
+TikTok @emirelidemir0 response code: 200 
+TikTok @emirelidemir0 HS is proper 7.6
+TikTok @emirelidemir0 ER is proper 4.38%
+TikTok @aycinasan response code: 200 
+TikTok @aycinasan HS is proper 7.6
+TikTok @aycinasan ER is proper 8.62%
+discover tiktok page controlled
+1017.547 seconds
+discover youtube page control started
+discover twitch page control started
+Twitch @annadeniz response code: 200 
+Twitch @annadeniz HS is proper 8.4
+Twitch @annadeniz  Follower Count:  0
+Twitch @annadeniz  ER:  00
+Twitch @annadeniz  avg_views_value:  N/A
+Twitch @annadeniz  avg_likes_value:  N/A
+Twitch @annadeniz  avg_comments_value:  N/A
+Twitch @annadeniz  avg_shares_value:  N/A
+Twitch @lakasaba1 response code: 200 
+Twitch @lakasaba1 HS is proper 9.0
+Twitch @lakasaba1  Follower Count:  0
+Twitch @lakasaba1  ER:  00
+Twitch @lakasaba1  avg_views_value:  N/A
+Twitch @lakasaba1  avg_likes_value:  N/A
+Twitch @lakasaba1  avg_comments_value:  N/A
+Twitch @lakasaba1  avg_shares_value:  N/A
+Twitch @fuatizgi response code: 200 
+Twitch @fuatizgi HS is proper 7.5
+Twitch @fuatizgi  Follower Count:  0
+Twitch @fuatizgi  ER:  00
+Twitch @fuatizgi  avg_views_value:  N/A
+Twitch @fuatizgi  avg_likes_value:  N/A
+Twitch @fuatizgi  avg_comments_value:  N/A
+Twitch @fuatizgi  avg_shares_value:  N/A
+Twitch @damlaecre response code: 200 
+Twitch @damlaecre HS is proper 8.4
+Twitch @damlaecre  Follower Count:  0
+Twitch @damlaecre  ER:  00
+Twitch @damlaecre  avg_views_value:  N/A
+Twitch @damlaecre  avg_likes_value:  N/A
+Twitch @damlaecre  avg_comments_value:  N/A
+Twitch @damlaecre  avg_shares_value:  N/A
+Twitch @GorkemBk response code: 200 
+Twitch @GorkemBk  has no picture
+Twitch @GorkemBk  Error HS:  ?
+Twitch @GorkemBk  Follower Count:  0
+Twitch @GorkemBk  ER:  00
+Twitch @GorkemBk  avg_views_value:  N/A
+Twitch @GorkemBk  avg_likes_value:  N/A
+Twitch @GorkemBk  avg_comments_value:  N/A
+Twitch @GorkemBk  avg_shares_value:  N/A
+Twitch @xtreme response code: 200 
+Twitch @xtreme  has no picture
+Twitch @xtreme HS is proper 6.4
+Twitch @xtreme  Follower Count:  0
+Twitch @xtreme  ER:  00
+Twitch @xtreme  avg_views_value:  N/A
+Twitch @xtreme  avg_likes_value:  N/A
+Twitch @xtreme  avg_comments_value:  N/A
+Twitch @xtreme  avg_shares_value:  N/A
+Twitch @Krankist response code: 200 
+Twitch @Krankist  has no picture
+Twitch @Krankist HS is proper 5.6
+Twitch @Krankist  Follower Count:  0
+Twitch @Krankist  ER:  00
+Twitch @Krankist  avg_views_value:  N/A
+Twitch @Krankist  avg_likes_value:  N/A
+Twitch @Krankist  avg_comments_value:  N/A
+Twitch @Krankist  avg_shares_value:  N/A
+Twitch @StudioLuna3D response code: 200 
+Twitch @StudioLuna3D  has no picture
+Twitch @StudioLuna3D HS is proper 6.1
+Twitch @StudioLuna3D  Follower Count:  0
+Twitch @StudioLuna3D  ER:  00
+Twitch @StudioLuna3D  avg_views_value:  N/A
+Twitch @StudioLuna3D  avg_likes_value:  N/A
+Twitch @StudioLuna3D  avg_comments_value:  N/A
+Twitch @StudioLuna3D  avg_shares_value:  N/A
+Twitch @dkoseoglu response code: 200 
+Twitch @dkoseoglu  has no picture
+Twitch @dkoseoglu HS is proper 5.4
+Twitch @dkoseoglu  Follower Count:  0
+Twitch @dkoseoglu  ER:  00
+Twitch @dkoseoglu  avg_views_value:  N/A
+Twitch @dkoseoglu  avg_likes_value:  N/A
+Twitch @dkoseoglu  avg_comments_value:  N/A
+Twitch @dkoseoglu  avg_shares_value:  N/A
+Twitch @taliogur response code: 200 
+Twitch @taliogur  has no picture
+Twitch @taliogur  Error HS:  ?
+Twitch @taliogur  Follower Count:  0
+Twitch @taliogur  ER:  00
+Twitch @taliogur  avg_views_value:  N/A
+Twitch @taliogur  avg_likes_value:  N/A
+Twitch @taliogur  avg_comments_value:  N/A
+Twitch @taliogur  avg_shares_value:  N/A
+discover twitch page controlled
+1059.891 seconds
+discover clubhouse page control started
+Clubhouse @burcues response code: 200 
+Clubhouse @burcues HS is proper 3.6
+Clubhouse @umutkurt1 response code: 200 
+Clubhouse @umutkurt1 HS is proper 5.2
+Clubhouse @ezgifindik response code: 200 
+Clubhouse @ezgifindik HS is proper 7.2
+Clubhouse @hakkiergok response code: 200 
+Clubhouse @hakkiergok HS is proper 4.4
+Clubhouse @halko response code: 200 
+Clubhouse @halko HS is proper 1.6
+Clubhouse @cuneytozdemir response code: 200 
+Clubhouse @cuneytozdemir HS is proper 4.3
+Clubhouse @ozdemirkok response code: 200 
+Clubhouse @ozdemirkok HS is proper 5.1
+Clubhouse @diessirea response code: 200 
+Clubhouse @diessirea HS is proper 5.2
+Clubhouse @dilsaterdil response code: 200 
+Clubhouse @dilsaterdil HS is proper 4.3
+Clubhouse @profdemirtas response code: 200 
+Clubhouse @profdemirtas HS is proper 7.6
+discover clubhouse page controlled
+1078.222 seconds
+discover podcast page control started
+Podbee Media podcast link status code: 200 https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
+Podbee Media podcast link status code: 200 https://podcasts.apple.com/tr/podcast/bar%C4%B1%C5%9F-%C3%B6zcan-ile-111-hz/id1574497387?uo=4
+Deniz Dülgeroðlu podcast link status code: 200 https://open.spotify.com/show/0WfRjSuF5ChM2bk2aT22B1
+Deniz Dülgeroðlu podcast link status code: 200 https://podcasts.apple.com/tr/podcast/merdiven-alt%C4%B1-terapi/id1497612287?uo=4
+Beyhan Budak podcast link status code: 200 https://itunes.apple.com/dk/podcast/psikolog-beyhan-budak/id1214693100?mt=2&uo=4
+Beyhan Budak podcast link status code: 200 https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc
+by Mesut Süre, Anlatanadam, Fazlý Polat via Karnaval.com podcast link status code: 200 https://open.spotify.com/show/1g3XuO31nyfA88ZdD8yWBP
+by Mesut Süre, Anlatanadam, Fazlý Polat via Karnaval.com podcast link status code: 200 https://podcasts.apple.com/gb/podcast/meksika-a%C3%A7maz%C4%B1/id1585156719?uo=4
+Karnaval.com podcast link status code: 200 https://itunes.apple.com/fi/podcast/virgin-radio-mesut-s%C3%BCre-ile-rabarba/id1215226167?mt=2&uo=4
+Ortamlarda Satýlacak Bilgi podcast link status code: 200 https://open.spotify.com/show/5gaAD2SPBy7XY9188rXufJ
+Ortamlarda Satýlacak Bilgi podcast link status code: 200 https://podcasts.apple.com/tr/podcast/ortamlarda-sat%C4%B1lacak-bilgi/id1549686147?uo=4
+Immanuel Tolstoyevski | Podbee Media podcast link status code: 200 https://podcasts.apple.com/tr/podcast/fulars%C4%B1z-entellik/id1471554610?uo=4
+Immanuel Tolstoyevski | Podbee Media podcast link status code: 200 https://open.spotify.com/show/2hC1h1LKSFSZKqFogeDk8y
+Storytel podcast link status code: 200 https://podcasts.apple.com/tr/podcast/nas%C4%B1l-olunur/id1458003492?uo=4
+Storytel podcast link status code: 200 https://open.spotify.com/show/1q6zr0Va8JXmTrcfqRTcJO
+Biraz Konusabilir miyiz? podcast link status code: 200 https://podcasts.apple.com/tr/podcast/biraz-konu%C5%9Fabilir-miyiz/id1532718489?uo=4
+Vira Network podcast link status code: 200 https://open.spotify.com/show/6cpgXo0n7PfKxOG1GSiXZy
+Vira Network podcast link status code: 200 https://podcasts.apple.com/tr/podcast/%C3%B6zg%C3%BCr-mumcu-ve-eray-%C3%B6zerle-yeni-haller/id1499387598?uo=4
+BMY Medya podcast link status code: 200 https://podcasts.apple.com/tr/podcast/bu-mu-yani/id1474085607?uo=4
+BMY Medya podcast link status code: 200 https://open.spotify.com/show/5EIiOWjqVsr6WMvzZwjdxV
+Onur Can Yenilmez podcast link status code: 200 https://podcasts.apple.com/tr/podcast/olay-yeri-su%C3%A7-hikayeleri/id1563167482?uo=4
+Onur Can Yenilmez podcast link status code: 200 https://open.spotify.com/show/6XQLoa6aHVh2zKTSQFwDIL
+Ariel Goodbody podcast link status code: 200 https://itunes.apple.com/ru/podcast/easy-stories-in-english/id1448201565?mt=2&uo=4
+Ariel Goodbody podcast link status code: 200 https://open.spotify.com/show/23zdIqNUb0riR51woKIEoF
+Medyascope podcast link status code: 200 https://open.spotify.com/show/0eMOSpamqoKAY6WwqWdeR6
+Medyascope podcast link status code: 200 https://itunes.apple.com/fi/podcast/medyascope-tv-podcast/id1048450387?mt=2&uo=4
+otarzmi podcast link status code: 200 https://open.spotify.com/show/5tt6CXfQvqPxIn9ZKapcH1
+otarzmi podcast link status code: 200 https://itunes.apple.com/ru/podcast/o-tarz-m%C4%B1/id1332079636?mt=2&uo=4
+Luke Thompson podcast link status code: 200 https://itunes.apple.com/us/podcast/lukes-english-podcast-learn/id312059190?mt=2&uo=4
+Luke Thompson podcast link status code: 200 https://open.spotify.com/show/4X48gpjrctXNJWtOnUgwq8
+M. Serdar Kuzuloðlu podcast link status code: 200 https://open.spotify.com/show/2Df3vdpepjq84vsVeaB0rL
+M. Serdar Kuzuloðlu podcast link status code: 200 https://podcasts.apple.com/tr/podcast/zihnimin-k%C4%B1vr%C4%B1mlar%C4%B1/id1505264003?uo=4
+Organikbeyinler podcast link status code: 200 https://itunes.apple.com/ru/podcast/organik-beyinler-podcast/id1403547426?mt=2&uo=4
+Organikbeyinler podcast link status code: 200 https://open.spotify.com/show/2gVSTFqMfFkuqixU4VafpK
+Storytel podcast link status code: 200 https://open.spotify.com/show/591e5NjOwoHNsl1ibFePW5
+Storytel podcast link status code: 200 https://podcasts.apple.com/tr/podcast/bunu-ben-de-yapar%C4%B1m/id1481411433?uo=4
+Karnaval.com podcast link status code: 200 https://podcasts.apple.com/tr/podcast/metro-fm-aragaz/id1083157766?uo=4
+Instagram @serkaytutuncu response code: 200 
+Instagram @serkaytutuncu HS is proper 7.4
+Instagram @serkaytutuncu ER is proper 8.95%
+Instagram @serkaytutuncu there is no story freq. div
+Instagram @barisozcan response code: 200 
+Instagram @barisozcan HS is proper 6.7
+Instagram @barisozcan ER is proper 5.49%
+Instagram @barisozcan there is no story freq. div
+Instagram @kafadergisi response code: 200 
+Instagram @kafadergisi HS is proper 2.1
+Instagram @kafadergisi ER is proper 0.68%
+Instagram @kafadergisi there is no story freq. div
+Instagram @haileysani response code: 200 
+Instagram @haileysani HS is proper 6.0
+Instagram @haileysani ER is proper 5.49%
+Instagram @haileysani there is no story freq. div
+Instagram @cetincetintas response code: 200 
+Instagram @cetincetintas HS is proper 3.4
+Instagram @cetincetintas ER is proper 1.21%
+Instagram @cetincetintas there is no story freq. div
+Instagram @kaangulten response code: 200 
+Instagram @kaangulten HS is proper 5.1
+Instagram @kaangulten ER is proper 1.89%
+Instagram @kaangulten there is no story freq. div
+Instagram @onererkanresmi response code: 200 
+Instagram @onererkanresmi HS is proper 7.6
+Instagram @onererkanresmi ER is proper 10.85%
+Instagram @onererkanresmi there is no story freq. div
+Instagram @rustemtemriyev response code: 200 
+Instagram @rustemtemriyev HS is proper 4.4
+Instagram @rustemtemriyev ER is proper 0.47%
+Instagram @rustemtemriyev there is no story freq. div
+Instagram @cinarmelis response code: 200 
+Instagram @cinarmelis HS is proper 4.1
+Instagram @cinarmelis ER is proper 1.02%
+Instagram @cinarmelis there is no story freq. div
+Instagram @avar.banu response code: 200 
+Instagram @avar.banu HS is proper 5.1
+Instagram @avar.banu ER is proper 2.26%
+Instagram @avar.banu there is no story freq. div
+discover podcast page controlled
+1139.356 seconds
+dashboard story count control started
+There is no 404 & 500
+20  stories found dashboard 
+dashboard story count controlled
+1151.625 seconds
+dashboard top lists control started
+There is no 404 & 500
+@2anne1mutfak  has no picture 
+@acemiannetv  has no picture 
+@otomatikoynatresmi  has no picture 
+@penavideo  has no picture 
+@terasnoir  has no picture 
+@rndhousenet  has no picture 
+@trendsmyfriends  has no picture 
+@laratuks  has no picture 
+@bilalyigitkocaak  has no picture 
+@halukbilginer_official  has no picture 
+@ulanhudai ER is proper 82.40%
+@cerenn.et ER is proper 68.36%
+@sefo.362 ER is proper 67.22%
+@celalsariigul ER is proper 63.99%
+@reckol17yeni ER is proper 58.56%
+dashboard top lists controlled
+1163.447 seconds
+search box control started
+There is no 404 & 500
+larissaburak  user div is exist 
+tolgacevikofficial  user div is exist 
+gacemerburak  user div is exist 
+tolgacebeciphotography  user div is exist 
+There is no 404 & 500
+gacemerburak  user card is exist
+tolgacebeciphotography  user card is exist
+larissaburak  user card is exist
+tolgacevikofficial  user card is exist
+muhammedbasdag  user div is exist 
+sevgitasdanofficial  user div is exist 
+There is no 404 & 500
+muhammedbasdag  user card is exist
+sevgitasdanofficial  user card is exist
+elvin  user div is exist 
+elvinaydogdu  user div is exist 
+elvin_odabasipekiyi  user div is exist 
+There is no 404 & 500
+elvin  user card is exist
+elvinaydogdu  user card is exist
+elvin_odabasipekiyi  user card has no picture 
+elvin_odabasipekiyi  user card is exist
+search box controlled
+@zeynebcetin  post analysis 
+user response is 200
+There is no 404 & 500
+There is no 404 & 500
+https://www.hyperiser.com/sector_analysis/737/ 200 
+sector analysis controlled
+1332.786 seconds

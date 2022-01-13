@@ -1,0 +1,4 @@
+Test started
+competetion analysis method started
+competetion analysis started
+26.308 seconds

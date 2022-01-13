@@ -1,0 +1,5 @@
+Test started
+sector analysis method started
+sector analysis started
+51.822 seconds
+competetion analysis method started

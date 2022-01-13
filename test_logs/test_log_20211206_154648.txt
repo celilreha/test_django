@@ -1,0 +1,63 @@
+Test started
+discover instagram page profile picture control started
+There is no 404 & 500
+Instagram @soysalmedia response code: 200 
+Instagram @soysalmedia HS is proper 9.0
+Instagram @soysalmedia follower lower than 1K: 928
+Instagram @soysalmedia  ER:  ? None
+Instagram @soysalmedia  Post F:  ?
+Instagram @soysalmedia  Avg Reach:  None
+Instagram @soysalmedia  Avg Eng:  None
+Instagram @soysalmedia Story F: N/A
+Instagram @gulbentoksoy response code: 200 
+Instagram @gulbentoksoy HS is proper 9.0
+Instagram @gulbentoksoy follower lower than 1K: 792
+Instagram @gulbentoksoy ER is proper 12.00% 12.00
+Instagram @gulbentoksoy  Post F:  ?
+Instagram @gulbentoksoy  Avg Eng:  0
+Instagram @gulbentoksoy Story F: N/A
+Instagram @aysenuryakutt response code: 200 
+Instagram @aysenuryakutt HS is proper 8.3
+Instagram @aysenuryakutt follower lower than 1K: 601
+Instagram @aysenuryakutt ER is proper 43.21% 43.21
+Instagram @prensessureyya response code: 200 
+Instagram @prensessureyya  has no picture
+Instagram @prensessureyya HS is proper 8.2
+Instagram @prensessureyya follower lower than 1K: 992
+Instagram @prensessureyya ER is proper 13.97% 13.97
+Instagram @prensessureyya Story F: N/A
+Instagram @cemre.dans response code: 200 
+Instagram @cemre.dans HS is proper 7.1
+Instagram @cemre.dans follower lower than 1K: 553
+Instagram @cemre.dans ER is proper 44.39% 44.39
+Instagram @cemre.dans  Post F:  ?
+Instagram @cemre.dans Story F: N/A
+Instagram @fatihacikalin response code: 200 
+Instagram @fatihacikalin  has no picture
+Instagram @fatihacikalin HS is proper 6.5
+Instagram @fatihacikalin follower lower than 1K: 712
+Instagram @fatihacikalin ER is proper 9.38% 9.38
+Instagram @fatihacikalin  Avg Eng:  0
+Instagram @fatihacikalin Story F: N/A
+Instagram @minimalsblog response code: 200 
+Instagram @minimalsblog HS is proper 6.1
+Instagram @minimalsblog follower lower than 1K: 64
+Instagram @minimalsblog ER is proper 4.60% 4.60
+Instagram @minimalsblog  Post F:  ?
+Instagram @minimalsblog  Avg Eng:  0
+Instagram @minimalsblog Story F: N/A
+Instagram @cansucanann response code: 200 
+Instagram @cansucanann HS is proper 5.2
+Instagram @cansucanann follower lower than 1K: 78
+Instagram @cansucanann ER is proper 3.64% 3.64
+Instagram @cansucanann  Avg Eng:  0
+Instagram @cansucanann Story F: N/A
+Instagram @otostil.dergi response code: 200 
+Instagram @otostil.dergi HS is proper 4.1
+Instagram @otostil.dergi follower lower than 1K: 91
+Instagram @otostil.dergi ER is proper 4.95% 4.95
+Instagram @otostil.dergi  Post F:  ?
+Instagram @otostil.dergi  Avg Eng:  0
+Instagram @otostil.dergi Story F: N/A
+discover instagram page profile picture controlled
+52.560 seconds

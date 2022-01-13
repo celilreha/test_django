@@ -1,0 +1,373 @@
+Test started
+discover instagram page profile picture control started
+There is no 404 & 500
+Instagram @muhammedbasdag HS is proper 4.3
+Instagram @muhammedbasdag ER is proper 1.28% 1.28
+Instagram @mervs.world_ HS is proper 4.3
+Instagram @mervs.world_ ER is proper 1.42% 1.42
+Instagram @ecz.mortazazadehdeniz  has no picture
+Instagram @ecz.mortazazadehdeniz HS is proper 4.8
+Instagram @ecz.mortazazadehdeniz ER is proper 1.87% 1.87
+Instagram @ecz.mortazazadehdeniz Story F: N/A
+Instagram @dileksemiz.turker HS is proper 4.0
+Instagram @dileksemiz.turker ER is proper 0.43% 0.43
+Instagram @zeynepemrez HS is proper 3.2
+Instagram @zeynepemrez ER is proper 1.15% 1.15
+Instagram @zeynepemrez Story F: N/A
+Instagram @goktugozcelikk HS is proper 6.2
+Instagram @goktugozcelikk ER is proper 3.40% 3.40
+Instagram @goktugozcelikk Story F: N/A
+Instagram @emredogru HS is proper 7.0
+Instagram @emredogru ER is proper 6.84% 6.84
+Instagram @emredogru Story F: N/A
+Instagram @tulinbo HS is proper 5.6
+Instagram @tulinbo ER is proper 3.01% 3.01
+Instagram @murat.serezli HS is proper 8.9
+Instagram @murat.serezli ER is proper 12.20% 12.20
+Instagram @murat.serezli  Post F:  ?
+Instagram @murat.serezli Story F: N/A
+Instagram @evim_evim_temiz_evimmmm HS is proper 3.8
+Instagram @evim_evim_temiz_evimmmm ER is proper 0.35% 0.35
+discover instagram page profile picture controlled
+181.505 seconds
+discover instagram page one category filter control started
+Instagram @drgokcenerdogan HS is proper 4.3
+Instagram @drgokcenerdogan ER is proper 1.02% 1.02
+Instagram @drgokcenerdogan Story F: N/A
+Instagram @draliduman HS is proper 4.7
+Instagram @draliduman ER is proper 1.47% 1.47
+Instagram @draliduman Story F: N/A
+Instagram @drmeltemaksusonmezer HS is proper 3.4
+Instagram @drmeltemaksusonmezer ER is proper 1.06% 1.06
+Instagram @drmeltemaksusonmezer  Post F:  ?
+Instagram @drmeltemaksusonmezer Story F: N/A
+Instagram @drhuseyinbalikci HS is proper 4.2
+Instagram @drhuseyinbalikci ER is proper 1.59% 1.59
+Instagram @drhuseyinbalikci Story F: N/A
+Instagram @dr.ahmetalp HS is proper 5.0
+Instagram @dr.ahmetalp ER is proper 2.19% 2.19
+Instagram @gonulatessacan HS is proper 3.8
+Instagram @gonulatessacan ER is proper 2.54% 2.54
+Instagram @gonulatessacan Story F: N/A
+Instagram @kardiyobey HS is proper 7.4
+Instagram @kardiyobey ER is proper 11.30% 11.30
+Instagram @kardiyobey Story F: N/A
+Instagram @hurkanakkuzu HS is proper 4.4
+Instagram @hurkanakkuzu ER is proper 3.74% 3.74
+Instagram @dtyunus HS is proper 5.8
+Instagram @dtyunus ER is proper 4.97% 4.97
+Instagram @dtyunus Story F: N/A
+Instagram @drgbudayicioglu HS is proper 4.5
+Instagram @drgbudayicioglu ER is proper 1.75% 1.75
+discover instagram page one category filter controlled
+210.192 seconds
+discover instagram page one label filter control started
+Instagram @olgakalemci HS is proper 3.6
+Instagram @olgakalemci ER is proper 1.80% 1.80
+Instagram @olgakalemci Story F: N/A
+Instagram @dilaraendican HS is proper 4.5
+Instagram @dilaraendican ER is proper 2.26% 2.26
+Instagram @dilaraendican  Post F:  ?
+Instagram @dilaraendican Story F: N/A
+Instagram @cihanunalan Error: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý', None, 10054, None))  has no picture
+Instagram @cihanunalan HS is proper 6.5
+Instagram @cihanunalan ER is proper 2.87% 2.87
+Instagram @cihanunalan Story F: N/A
+Instagram @denizdogulu HS is proper 4.3
+Instagram @denizdogulu ER is proper 1.85% 1.85
+Instagram @denizdogulu Story F: N/A
+Instagram @sebnemcapa HS is proper 4.9
+Instagram @sebnemcapa ER is proper 1.77% 1.77
+Instagram @sebnemcapa Story F: N/A
+Instagram @arzusabanci HS is proper 5.2
+Instagram @arzusabanci ER is proper 3.43% 3.43
+Instagram @gulaykamaz HS is proper 3.0
+Instagram @gulaykamaz ER is proper 1.23% 1.23
+Instagram @faruksabanci Error: ('Connection aborted.', ConnectionResetError(10054, 'Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý', None, 10054, None))  has no picture
+Instagram @faruksabanci HS is proper 5.7
+Instagram @faruksabanci ER is proper 3.30% 3.30
+Instagram @fethikamisli HS is proper 5.9
+Instagram @fethikamisli ER is proper 3.76% 3.76
+Instagram @kerimsabanci HS is proper 7.7
+Instagram @kerimsabanci ER is proper 12.47% 12.47
+discover instagram page one label filter controlled
+233.985 seconds
+discover instagram page multi category filter control started
+discover instagram page multi label filter control started
+Instagram @kaangulten HS is proper 5.1
+Instagram @kaangulten ER is proper 1.89% 1.89
+Instagram @kaangulten Story F: N/A
+Instagram @prof_demirtas HS is proper 7.6
+Instagram @prof_demirtas ER is proper 8.07% 8.07
+Instagram @mu_ulker HS is proper 4.1
+Instagram @mu_ulker ER is proper 1.23% 1.23
+Instagram @mu_ulker Story F: N/A
+Instagram @okanbarlas  has no picture
+Instagram @okanbarlas HS is proper 3.8
+Instagram @okanbarlas ER is proper 1.25% 1.25
+Instagram @okanbarlas Story F: N/A
+Instagram @sennuroztekin HS is proper 7.0
+Instagram @sennuroztekin ER is proper 5.71% 5.71
+Instagram @dalimdansofraya HS is proper 5.1
+Instagram @dalimdansofraya ER is proper 3.76% 3.76
+Instagram @sertacdoganay HS is proper 3.4
+Instagram @sertacdoganay ER is proper 1.31% 1.31
+Instagram @sertacdoganay Story F: N/A
+Instagram @mybeautifulcookbook HS is proper 3.9
+Instagram @mybeautifulcookbook ER is proper 1.32% 1.32
+Instagram @mybeautifulcookbook Story F: N/A
+Instagram @ciseren_vesaire HS is proper 6.1
+Instagram @ciseren_vesaire ER is proper 4.08% 4.08
+Instagram @omurakkor HS is proper 5.0
+Instagram @omurakkor ER is proper 3.30% 3.30
+discover instagram page filter controlled
+316.698 seconds
+discover instagram page filter control started
+discover instagram page sort control started
+discover tiktok page control started
+TikTok @nilaybysal HS is proper 4.3
+TikTok @nilaybysal ER is proper 16.04%
+TikTok @nilaybysal  avg_shares_value:  
+TikTok @hrguder HS is proper 7.6
+TikTok @hrguder  ER:  
+TikTok @hrguder  avg_views_value:  
+TikTok @hrguder  avg_likes_value:  
+TikTok @hrguder  avg_comments_value:  
+TikTok @hrguder  avg_shares_value:  
+TikTok @novaprospekt.1 HS is proper 5.7
+TikTok @novaprospekt.1 ER is proper 4.82%
+TikTok @emirhanozhan HS is proper 5.9
+TikTok @emirhanozhan ER is proper 6.52%
+TikTok @mirandaorlayn HS is proper 8.4
+TikTok @mirandaorlayn ER is proper 4.11%
+TikTok @baristahakan HS is proper 7.3
+TikTok @baristahakan  ER:  
+TikTok @baristahakan  avg_views_value:  
+TikTok @baristahakan  avg_likes_value:  
+TikTok @baristahakan  avg_comments_value:  
+TikTok @baristahakan  avg_shares_value:  
+TikTok @cinaraysegulll HS is proper 6.0
+TikTok @cinaraysegulll ER is proper 2.83%
+TikTok @kadircnturan HS is proper 5.3
+TikTok @kadircnturan ER is proper 2.77%
+TikTok @emirelidemir0 HS is proper 7.6
+TikTok @emirelidemir0 ER is proper 4.38%
+TikTok @aycinasan HS is proper 7.6
+TikTok @aycinasan ER is proper 8.62%
+discover tiktok page controlled
+334.000 seconds
+discover youtube page control started
+discover twitch page control started
+Twitch @annadeniz HS is proper 8.4
+Twitch @annadeniz  Follower Count:  0
+Twitch @annadeniz  ER:  00
+Twitch @annadeniz  avg_views_value:  N/A
+Twitch @annadeniz  avg_likes_value:  N/A
+Twitch @annadeniz  avg_comments_value:  N/A
+Twitch @annadeniz  avg_shares_value:  N/A
+Twitch @lakasaba1 HS is proper 9.0
+Twitch @lakasaba1  Follower Count:  0
+Twitch @lakasaba1  ER:  00
+Twitch @lakasaba1  avg_views_value:  N/A
+Twitch @lakasaba1  avg_likes_value:  N/A
+Twitch @lakasaba1  avg_comments_value:  N/A
+Twitch @lakasaba1  avg_shares_value:  N/A
+Twitch @fuatizgi HS is proper 7.5
+Twitch @fuatizgi  Follower Count:  0
+Twitch @fuatizgi  ER:  00
+Twitch @fuatizgi  avg_views_value:  N/A
+Twitch @fuatizgi  avg_likes_value:  N/A
+Twitch @fuatizgi  avg_comments_value:  N/A
+Twitch @fuatizgi  avg_shares_value:  N/A
+Twitch @damlaecre HS is proper 8.4
+Twitch @damlaecre  Follower Count:  0
+Twitch @damlaecre  ER:  00
+Twitch @damlaecre  avg_views_value:  N/A
+Twitch @damlaecre  avg_likes_value:  N/A
+Twitch @damlaecre  avg_comments_value:  N/A
+Twitch @damlaecre  avg_shares_value:  N/A
+Twitch @GorkemBk  HS:  ?
+Twitch @GorkemBk  Follower Count:  0
+Twitch @GorkemBk  ER:  00
+Twitch @GorkemBk  avg_views_value:  N/A
+Twitch @GorkemBk  avg_likes_value:  N/A
+Twitch @GorkemBk  avg_comments_value:  N/A
+Twitch @GorkemBk  avg_shares_value:  N/A
+Twitch @xtreme HS is proper 6.4
+Twitch @xtreme  Follower Count:  0
+Twitch @xtreme  ER:  00
+Twitch @xtreme  avg_views_value:  N/A
+Twitch @xtreme  avg_likes_value:  N/A
+Twitch @xtreme  avg_comments_value:  N/A
+Twitch @xtreme  avg_shares_value:  N/A
+Twitch @Krankist HS is proper 5.6
+Twitch @Krankist  Follower Count:  0
+Twitch @Krankist  ER:  00
+Twitch @Krankist  avg_views_value:  N/A
+Twitch @Krankist  avg_likes_value:  N/A
+Twitch @Krankist  avg_comments_value:  N/A
+Twitch @Krankist  avg_shares_value:  N/A
+Twitch @StudioLuna3D HS is proper 6.1
+Twitch @StudioLuna3D  Follower Count:  0
+Twitch @StudioLuna3D  ER:  00
+Twitch @StudioLuna3D  avg_views_value:  N/A
+Twitch @StudioLuna3D  avg_likes_value:  N/A
+Twitch @StudioLuna3D  avg_comments_value:  N/A
+Twitch @StudioLuna3D  avg_shares_value:  N/A
+Twitch @dkoseoglu HS is proper 5.4
+Twitch @dkoseoglu  Follower Count:  0
+Twitch @dkoseoglu  ER:  00
+Twitch @dkoseoglu  avg_views_value:  N/A
+Twitch @dkoseoglu  avg_likes_value:  N/A
+Twitch @dkoseoglu  avg_comments_value:  N/A
+Twitch @dkoseoglu  avg_shares_value:  N/A
+Twitch @taliogur  HS:  ?
+Twitch @taliogur  Follower Count:  0
+Twitch @taliogur  ER:  00
+Twitch @taliogur  avg_views_value:  N/A
+Twitch @taliogur  avg_likes_value:  N/A
+Twitch @taliogur  avg_comments_value:  N/A
+Twitch @taliogur  avg_shares_value:  N/A
+discover twitch page controlled
+374.244 seconds
+discover clubhouse page control started
+Clubhouse @burcues HS is proper 3.6
+Clubhouse @umutkurt1 HS is proper 5.2
+Clubhouse @ezgifindik HS is proper 7.2
+Clubhouse @hakkiergok HS is proper 4.4
+Clubhouse @halko HS is proper 1.6
+Clubhouse @cuneytozdemir HS is proper 4.3
+Clubhouse @ozdemirkok HS is proper 5.1
+Clubhouse @diessirea HS is proper 5.2
+Clubhouse @dilsaterdil HS is proper 4.3
+Clubhouse @profdemirtas HS is proper 7.6
+discover clubhouse page controlled
+382.972 seconds
+discover podcast page control started
+Podbee Media podcast link status code: 200 https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
+Podbee Media podcast link status code: 200 https://podcasts.apple.com/tr/podcast/bar%C4%B1%C5%9F-%C3%B6zcan-ile-111-hz/id1574497387?uo=4
+Deniz Dülgeroðlu podcast link status code: 200 https://podcasts.apple.com/tr/podcast/merdiven-alt%C4%B1-terapi/id1497612287?uo=4
+Deniz Dülgeroðlu podcast link status code: 200 https://open.spotify.com/show/0WfRjSuF5ChM2bk2aT22B1
+Beyhan Budak podcast link status code: 200 https://open.spotify.com/show/1OsUxSME9IyoE1ZyDpRLxc
+Beyhan Budak podcast link status code: 200 https://itunes.apple.com/dk/podcast/psikolog-beyhan-budak/id1214693100?mt=2&uo=4
+by Mesut Süre, Anlatanadam, Fazlý Polat via Karnaval.com podcast link status code: 200 https://podcasts.apple.com/gb/podcast/meksika-a%C3%A7maz%C4%B1/id1585156719?uo=4
+by Mesut Süre, Anlatanadam, Fazlý Polat via Karnaval.com podcast link status code: 200 https://open.spotify.com/show/1g3XuO31nyfA88ZdD8yWBP
+Karnaval.com podcast link status code: 200 https://itunes.apple.com/fi/podcast/virgin-radio-mesut-s%C3%BCre-ile-rabarba/id1215226167?mt=2&uo=4
+Ortamlarda Satýlacak Bilgi podcast link status code: 200 https://open.spotify.com/show/5gaAD2SPBy7XY9188rXufJ
+Ortamlarda Satýlacak Bilgi podcast link status code: 200 https://podcasts.apple.com/tr/podcast/ortamlarda-sat%C4%B1lacak-bilgi/id1549686147?uo=4
+Immanuel Tolstoyevski | Podbee Media podcast link status code: 200 https://podcasts.apple.com/tr/podcast/fulars%C4%B1z-entellik/id1471554610?uo=4
+Immanuel Tolstoyevski | Podbee Media podcast link status code: 200 https://open.spotify.com/show/2hC1h1LKSFSZKqFogeDk8y
+Storytel podcast link status code: 200 https://open.spotify.com/show/1q6zr0Va8JXmTrcfqRTcJO
+Storytel podcast link status code: 200 https://podcasts.apple.com/tr/podcast/nas%C4%B1l-olunur/id1458003492?uo=4
+Biraz Konusabilir miyiz? podcast link status code: 200 https://podcasts.apple.com/tr/podcast/biraz-konu%C5%9Fabilir-miyiz/id1532718489?uo=4
+Vira Network podcast link status code: 200 https://podcasts.apple.com/tr/podcast/%C3%B6zg%C3%BCr-mumcu-ve-eray-%C3%B6zerle-yeni-haller/id1499387598?uo=4
+Vira Network podcast link status code: 200 https://open.spotify.com/show/6cpgXo0n7PfKxOG1GSiXZy
+BMY Medya podcast link status code: 200 https://podcasts.apple.com/tr/podcast/bu-mu-yani/id1474085607?uo=4
+BMY Medya podcast link status code: 200 https://open.spotify.com/show/5EIiOWjqVsr6WMvzZwjdxV
+Onur Can Yenilmez podcast link status code: 200 https://open.spotify.com/show/6XQLoa6aHVh2zKTSQFwDIL
+Onur Can Yenilmez podcast link status code: 200 https://podcasts.apple.com/tr/podcast/olay-yeri-su%C3%A7-hikayeleri/id1563167482?uo=4
+Ariel Goodbody podcast link status code: 200 https://itunes.apple.com/ru/podcast/easy-stories-in-english/id1448201565?mt=2&uo=4
+Ariel Goodbody podcast link status code: 200 https://open.spotify.com/show/23zdIqNUb0riR51woKIEoF
+Medyascope podcast link status code: 200 https://open.spotify.com/show/0eMOSpamqoKAY6WwqWdeR6
+Medyascope podcast link status code: 200 https://itunes.apple.com/fi/podcast/medyascope-tv-podcast/id1048450387?mt=2&uo=4
+otarzmi podcast link status code: 200 https://open.spotify.com/show/5tt6CXfQvqPxIn9ZKapcH1
+otarzmi podcast link status code: 200 https://itunes.apple.com/ru/podcast/o-tarz-m%C4%B1/id1332079636?mt=2&uo=4
+Luke Thompson podcast link status code: 200 https://open.spotify.com/show/4X48gpjrctXNJWtOnUgwq8
+Luke Thompson podcast link status code: 200 https://itunes.apple.com/us/podcast/lukes-english-podcast-learn/id312059190?mt=2&uo=4
+M. Serdar Kuzuloðlu podcast link status code: 200 https://open.spotify.com/show/2Df3vdpepjq84vsVeaB0rL
+M. Serdar Kuzuloðlu podcast link status code: 200 https://podcasts.apple.com/tr/podcast/zihnimin-k%C4%B1vr%C4%B1mlar%C4%B1/id1505264003?uo=4
+Organikbeyinler podcast link status code: 200 https://itunes.apple.com/ru/podcast/organik-beyinler-podcast/id1403547426?mt=2&uo=4
+Organikbeyinler podcast link status code: 200 https://open.spotify.com/show/2gVSTFqMfFkuqixU4VafpK
+Storytel podcast link status code: 200 https://open.spotify.com/show/591e5NjOwoHNsl1ibFePW5
+Storytel podcast link status code: 200 https://podcasts.apple.com/tr/podcast/bunu-ben-de-yapar%C4%B1m/id1481411433?uo=4
+Karnaval.com podcast link status code: 200 https://podcasts.apple.com/tr/podcast/metro-fm-aragaz/id1083157766?uo=4
+Instagram @serkaytutuncu HS is proper 7.4
+Instagram @serkaytutuncu ER is proper 8.95%
+Instagram @serkaytutuncu there is no story freq. div
+Instagram @barisozcan HS is proper 6.7
+Instagram @barisozcan ER is proper 5.49%
+Instagram @barisozcan there is no story freq. div
+Instagram @kafadergisi HS is proper 2.1
+Instagram @kafadergisi ER is proper 0.68%
+Instagram @kafadergisi there is no story freq. div
+Instagram @haileysani HS is proper 6.0
+Instagram @haileysani ER is proper 5.49%
+Instagram @haileysani there is no story freq. div
+Instagram @cetincetintas HS is proper 3.4
+Instagram @cetincetintas ER is proper 1.21%
+Instagram @cetincetintas there is no story freq. div
+Instagram @kaangulten HS is proper 5.1
+Instagram @kaangulten ER is proper 1.89%
+Instagram @kaangulten there is no story freq. div
+Instagram @onererkanresmi HS is proper 7.6
+Instagram @onererkanresmi ER is proper 10.85%
+Instagram @onererkanresmi there is no story freq. div
+Instagram @rustemtemriyev HS is proper 4.4
+Instagram @rustemtemriyev ER is proper 0.47%
+Instagram @rustemtemriyev there is no story freq. div
+Instagram @cinarmelis HS is proper 4.1
+Instagram @cinarmelis ER is proper 1.02%
+Instagram @cinarmelis there is no story freq. div
+Instagram @avar.banu HS is proper 5.1
+Instagram @avar.banu ER is proper 2.26%
+Instagram @avar.banu there is no story freq. div
+discover podcast page controlled
+434.593 seconds
+dashboard story count control started
+There is no 404 & 500
+0 not greater than 2 
+0  stories found dashboard 
+dashboard story count controlled
+458.347 seconds
+dashboard top lists control started
+There is no 404 & 500
+@yabandatek  has no picture 
+@aliturkkan  has no picture 
+@suddebulut  has no picture 
+@kafa_tv  has no picture 
+@kafaradyo  has no picture 
+@kafadergisi  has no picture 
+@karagenc3  has no picture 
+@simge.pusa  has no picture 
+@barankete  has no picture 
+@domatesbiberpatliicaan  has no picture 
+@cerenn.et ER is proper 68.36%
+@celalsariigul ER is proper 63.99%
+@sefo.362 ER is proper 62.09%
+@reckol17yeni ER is proper 58.56%
+@ogulcan.asikoglu ER is proper 57.20%
+@ogulcan.asikoglu  has no picture
+dashboard top lists controlled
+469.816 seconds
+search box control started
+There is no 404 & 500
+larissaburak  user div is exist 
+tolgacevikofficial  user div is exist 
+gacemerburak  user div is exist 
+tolgacebeciphotography  user div is exist 
+There is no 404 & 500
+larissaburak  user card is exist
+gacemerburak  user card is exist
+tolgacebeciphotography  user card is exist
+tolgacevikofficial  user card is exist
+muhammedbasdag  user div is exist 
+sevgitasdanofficial  user div is exist 
+There is no 404 & 500
+muhammedbasdag  user card is exist
+sevgitasdanofficial  user card is exist
+elvin  user div is exist 
+elvinaydogdu  user div is exist 
+elvin_odabasipekiyi  user div is exist 
+There is no 404 & 500
+elvin  user card is exist
+elvinaydogdu  user card is exist
+elvin_odabasipekiyi  user card has no picture 
+elvin_odabasipekiyi  user card is exist
+search box controlled
+@bahargelirofficial  post analysis 
+user response is 200
+There is no 404 & 500
+https://www.hyperiser.com/competition_analysis/1270/ 200 
+competetion analysis controlled
+577.938 seconds
+There is no 404 & 500
