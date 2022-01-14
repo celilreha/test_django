@@ -17,3 +17,5 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+    - name: Run tests
+      run: python -m unittest hello.tests.MySeleniumTests.test_040_filter_discover_instagram_no_category_no_label
