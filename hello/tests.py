@@ -14,7 +14,10 @@ from hello.models import *
 
 
 class BaseTest(TestCase):
-    def test_convert_integer_to_string_format(self):
+    def test_correct(self):
+        a=x('x')
+        self.assertEqual(a,'x')
+    def test_mistake(self):
         a=x('x')
         self.assertEqual(a,'a')
 
