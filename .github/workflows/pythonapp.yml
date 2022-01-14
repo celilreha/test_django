@@ -17,5 +17,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Run tests
-      run: python -m unittest hello.tests.BaseTest
+    - name: Run test correct
+      run: python -m unittest hello.tests.BaseTest.test_correct
+    - name: Run test mistake
+      run: python -m unittest hello.tests.BaseTest.test_mistake
