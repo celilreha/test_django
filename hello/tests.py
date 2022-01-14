@@ -16,7 +16,7 @@ from hello.models import *
 class BaseTest(TestCase):
     def test_convert_integer_to_string_format(self):
         a=x('x')
-        self.assertEqual(a,'x')
+        self.assertEqual(a,'a')
 
 
 class MySeleniumTests(TestCase):
