@@ -1,6 +1,5 @@
 import time
 import random
-from django.test import LiveServerTestCase
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.support.wait import WebDriverWait
 import pickle
@@ -10,9 +9,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
+from unittest import TestCase
 
 
-class BaseTest(LiveServerTestCase):
+class BaseTest():
     def make_cookie(self):
         live_server_url = 'https://www.hyperiser.com'
         self.selenium = WebDriver(executable_path='D:\Hyperiser\chromedriver.exe')
@@ -31,12 +31,12 @@ class BaseTest(LiveServerTestCase):
         #    selenium.add_cookie(cookie)
 
 
-class MySeleniumTests(LiveServerTestCase):
+class MySeleniumTests(TestCase):
     named_tuple = time.localtime()
     time_string = time.strftime("%Y%m%d_%H%M%S", named_tuple)
-    file_name = "test_logs/test_log_"+time_string+".txt"
-    with open(file_name, "a") as file_object:
-        file_object.write("Test started\n")
+    #file_name = "test_logs/test_log_"+time_string+".txt"
+    #with open(file_name, "a") as file_object:
+    #    file_object.write("Test started\n")
     # file = open("test_logs/test_log_"+time_string+".txt", "a")
     # file = open("test_log_"+time_string+".txt", "a")
     # file = open("test_logs/test.txt", "a")
@@ -47,17 +47,17 @@ class MySeleniumTests(LiveServerTestCase):
     selenium = WebDriver(executable_path='D:\Hyperiser\chromedriver.exe')
     selenium.implicitly_wait(10)
     selenium.get(live_server_url)
-    '''username_input = selenium.find_element_by_name("username")
+    username_input = selenium.find_element_by_name("username")
     username_input.send_keys('celilreha')
     password_input = selenium.find_element_by_name("password")
-    password_input.send_keys('')
+    password_input.send_keys('Celil14789')
     selenium.find_element_by_xpath('//button[@id="send"]').click()
-    self.selenium.find_elements_by_xpath('//span[text()="Accept Cookies"]')[0].click()
-    pickle.dump( self.selenium.get_cookies() , open("cookies.pkl","wb"))'''
-    selenium.maximize_window()
+    '''selenium.find_elements_by_xpath('//span[text()="Accept Cookies"]')[0].click()
+    pickle.dump( self.selenium.get_cookies() , open("cookies.pkl","wb"))
     cookies = pickle.load(open("cookies.pkl", "rb"))
     for cookie in cookies:
-        selenium.add_cookie(cookie)
+        selenium.add_cookie(cookie)'''
+    selenium.maximize_window()
     selenium.find_elements_by_xpath('//span[text()="Accept Cookies"]')[0].click()
 
     @classmethod
@@ -1060,8 +1060,9 @@ class MySeleniumTests(LiveServerTestCase):
         else:
             list_div.click()
     def file_open_write(self,text):
-        with open(self.file_name, "a") as file:
-            file.write(text)
+        pass
+        #with open(self.file_name, "a") as file:
+        #    file.write(text)
     def scroll_and_click(self,element):
         self.selenium.execute_script("arguments[0].scrollIntoView();", element)
         time.sleep(1)
