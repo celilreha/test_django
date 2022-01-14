@@ -10,29 +10,17 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
 from unittest import TestCase
+from hello.models import *
 
 
-class BaseTest():
-    def make_cookie(self):
-        live_server_url = 'https://www.hyperiser.com'
-        self.selenium = WebDriver(executable_path='D:\Hyperiser\chromedriver.exe')
-        self.selenium.implicitly_wait(10)
-        self.selenium.get(live_server_url)
-        username_input = self.selenium.find_element_by_name("username")
-        username_input.send_keys('celilreha')
-        password_input = self.selenium.find_element_by_name("password")
-        password_input.send_keys('Celil14789')
-        self.selenium.find_element_by_xpath('//button[@id="send"]').click()
-        self.selenium.find_elements_by_xpath('//span[text()="Accept Cookies"]')[0].click()
-        pickle.dump(self.selenium.get_cookies(), open("cookies.pkl", "wb"))
-        # selenium.maximize_window()
-        # cookies = pickle.load(open("cookies.pkl", "rb"))
-        # for cookie in cookies:
-        #    selenium.add_cookie(cookie)
+class BaseTest(TestCase):
+    def test_convert_integer_to_string_format(self):
+        a=x('x')
+        self.assertEqual(a,'x')
 
 
 class MySeleniumTests(TestCase):
-    named_tuple = time.localtime()
+    """named_tuple = time.localtime()
     time_string = time.strftime("%Y%m%d_%H%M%S", named_tuple)
     #file_name = "test_logs/test_log_"+time_string+".txt"
     #with open(file_name, "a") as file_object:
@@ -44,7 +32,7 @@ class MySeleniumTests(TestCase):
     all_links = []    #
     start_time = time.time()
     live_server_url = 'https://www.hyperiser.com'
-    selenium = WebDriver(executable_path='D:\Hyperiser\chromedriver.exe')
+    selenium = WebDriver()
     selenium.implicitly_wait(10)
     selenium.get(live_server_url)
     username_input = selenium.find_element_by_name("username")
@@ -64,7 +52,7 @@ class MySeleniumTests(TestCase):
     def tearDownClass(cls):
         # print('file is closed')
         # cls.file.close()
-        cls.selenium.quit()
+        cls.selenium.quit()"""
 
     def test_000_add_list(self):
         '''

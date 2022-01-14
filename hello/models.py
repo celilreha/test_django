@@ -18,3 +18,6 @@ class Ticket(models.Model):
     is_done = models.NullBooleanField('Is Done', default=False, blank=True, null=True)
     owner = models.ForeignKey(User, on_delete=models.SET_NULL, blank=True, null=True)
     answered_by = models.ForeignKey(User, on_delete=models.SET_NULL, blank=True, null=True)'''
+def x(a):
+    print('e')
+    return a
