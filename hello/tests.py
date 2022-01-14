@@ -19,7 +19,7 @@ class BaseTest(TestCase):
         self.assertEqual(a,'x')
     def test_mistake(self):
         a=x('x')
-        self.assertEqual(a,'a')
+        self.assertEqual(a,'x')
 
 
 class MySeleniumTests(TestCase):
