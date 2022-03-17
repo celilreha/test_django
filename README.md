@@ -33,10 +33,10 @@ There is a link on [Hyperiser](https://www.hyperiser.com/) project.
 ## Social Media Accounts
 1. Adding to database from xlxs file
 2. Errors
-- login required: 
-- challenge_required:
-- EOF when reading a file:
-- Please wait a few minutes before you try again:
+  - login required: 
+  - challenge_required:
+  - EOF when reading a file:
+  - Please wait a few minutes before you try again:
 - 
 
 
