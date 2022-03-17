@@ -1,12 +1,45 @@
-## Welcome to GitHub Page t
+# Hyperiser
 
-You can use the [editor on GitHub](https://github.com/celilreha/test_django/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+There is a link on [Hyperiser](https://www.hyperiser.com/) project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Requirments
+- Django 2.2.5 or plus. [Install](https://docs.djangoproject.com/en/2.2/topics/install/)
+- Python 3.6 or plus. [Install](https://www.python.org/downloads/)
+- PostgreSQL 13 or plus. [Install](https://www.postgresql.org/download/)
+- Microsoft Visual C++ 14.0 or plus. [Install](https://docs.microsoft.com/tr-tr/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-### Markdown
+## Install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Social Media Updates
+
+### Instagram
+#### Post
+1. How to do
+2. Errors
+#### Story
+1. How to do
+2. Errors
+### Tiktok
+1. How to do
+2. Errors
+### Youtube
+1. How to do
+2. Errors
+### Podcast
+1. How to do
+2. Errors
+
+
+## Social Media Accounts
+1. Adding to database from xlxs file
+2. Errors
+- login required: 
+- challenge_required:
+- EOF when reading a file:
+- Please wait a few minutes before you try again:
+- 
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +59,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/celilreha/test_django/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
